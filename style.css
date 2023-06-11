@@ -1,0 +1,152 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.donation-main{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 150px;
+}
+.donate-area{
+    text-align: center;
+    color: white;
+}
+#font-area{
+    font-size: 40px;
+}
+#font-para{
+    font-size: 12px;
+    margin-bottom: 30px;
+}
+.btn-donate{
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;
+}
+.donate-today{
+    text-align: center;
+    margin-top: 100Px;
+}
+.money-main{
+    text-align: center;
+}
+.money{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+    background-color: antiquewhite;
+    display: inline-block
+}
+.money-tk{
+    border: 2px solid rebeccapurple;
+    color: rebeccapurple;
+}
+.input{
+    text-align: center;
+    margin-top: 40px;
+}
+.input-tk{
+    border: none;
+}
+.under-line{
+    width: 50%;
+}
+.btn-donate-2{
+    text-align: center;
+    margin-top: 30px;
+}
+.family{
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.family-food{
+    background-color: beige;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin: 10px;
+}
+.family-shelter{
+    background-color: rgb(165, 146, 182);
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin: 10px;
+}
+.family-education{
+    background-color: aquamarine;
+    padding-left: 10px;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    margin: 10px; 
+}
+.lives-donation{
+    display: flex;
+    margin-top: 100px;
+}
+.donation{
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.donation-image{
+    margin-right: 300px;
+}
+.your-donation{
+    font-size: 40px;
+}
+.btn-contribute{
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+    padding: 10px;
+    border-radius: 5px;
+}
+.donation-image1{
+    margin-left: 150px;
+}
+.your-servive{
+    font-size: 40px;
+}
+.survive{
+    margin-left: 100px;
+    margin-right: 300px;
+}
+.updates{
+    text-align: center;
+    margin-top: 100px;
+}
+.my-update{
+    margin-bottom: 30px;
+}
+.btn-subscribe{
+    text-decoration: none;
+    color: white;
+    background-color: brown;
+    padding: 10px;
+}
+.email-holder{
+    background-color: bisque;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: brown;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 150px;
+}
